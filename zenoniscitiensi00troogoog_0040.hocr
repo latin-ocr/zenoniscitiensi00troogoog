@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zenoniscitiensi00troogoog_0040.png"; bbox 0 0 890 1371; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 712 58 848 660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 712 58 848 660">
+     <span class='ocr_line' id='line_1_1' title="bbox 712 58 848 660; baseline 0 711"><span class='ocrx_word' id='word_1_1' title='bbox 712 58 848 660; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 849 63 851 869">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 849 63 851 869">
+     <span class='ocr_line' id='line_1_2' title="bbox 849 63 851 869; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 849 63 851 869; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 328 1173 630 1312">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 328 1173 630 1312">
+     <span class='ocr_line' id='line_1_3' title="bbox 328 1173 630 1312; baseline 0 59"><span class='ocrx_word' id='word_1_3' title='bbox 328 1173 630 1312; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
